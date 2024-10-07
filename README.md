@@ -9,6 +9,10 @@
 - ✨ **User-Friendly Interface**: Simple and attractive UI for smooth navigation.
 
 ## 📸 Screenshots
+![Simulator Screenshot - iPhone 16 Pro - 2024-10-07 at 11 55 38](https://github.com/user-attachments/assets/c9791ce3-e4b2-4f67-8e7e-100a57f8ed0b)
+![Simulator Screenshot - iPhone 16 Pro - 2024-10-07 at 11 55 56](https://github.com/user-attachments/assets/a21c6ea3-2d80-4760-a9a9-61e70f3553f3)
+![Simulator Screenshot - iPhone 16 Pro - 2024-10-07 at 11 56 12](https://github.com/user-attachments/assets/0f155f94-78a1-49c4-a3db-115fa8683d45)
+![Simulator Screenshot - iPhone 16 Pro - 2024-10-07 at 11 56 45](https://github.com/user-attachments/assets/75372b52-b375-46c9-b2a0-172413c8ef71)
 
 
 ## 📦 Dependencies
