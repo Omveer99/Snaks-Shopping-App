@@ -13,21 +13,16 @@
   <tr>
     <td><img src="https://github.com/user-attachments/assets/c9791ce3-e4b2-4f67-8e7e-100a57f8ed0b" alt="Screenshot 1" width="200" /></td>
     <td><img src="https://github.com/user-attachments/assets/a21c6ea3-2d80-4760-a9a9-61e70f3553f3" alt="Screenshot 2" width="200" /></td>
+    <td><img src="https://github.com/user-attachments/assets/0f155f94-78a1-49c4-a3db-115fa8683d45" alt="Screenshot 3" width="200" /></td>
+    <td><img src="https://github.com/user-attachments/assets/75372b52-b375-46c9-b2a0-172413c8ef71" alt="Screenshot 4" width="200" /></td>
+    <td><img src="https://github.com/user-attachments/assets/2b7cf79b-5129-454d-87ac-285449a87c5b" alt="Screenshot 5" width="200" /></td>
   </tr>
   <tr>
     <td><strong>Browse Snacks</strong></td>
     <td><strong>Add to Cart</strong></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/0f155f94-78a1-49c4-a3db-115fa8683d45" alt="Screenshot 3" width="200" /></td>
-    <td><img src="https://github.com/user-attachments/assets/75372b52-b375-46c9-b2a0-172413c8ef71" alt="Screenshot 4" width="200" /></td>
-  </tr>
-  <tr>
     <td><strong>Secure Payment</strong></td>
     <td><strong>User-Friendly UI</strong></td>
+    <td><strong>Additional Feature</strong></td>
   </tr>
 </table>
 
