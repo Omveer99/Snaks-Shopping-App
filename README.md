@@ -18,11 +18,11 @@
     <td><img src="https://github.com/user-attachments/assets/2b7cf79b-5129-454d-87ac-285449a87c5b" alt="Screenshot 5" width="200" /></td>
   </tr>
   <tr>
+    <td><strong> Snacks Home Screen</strong></td>
     <td><strong>Browse Snacks</strong></td>
+    <td><strong>Snaks Collection</strong></td>
+    <td><strong>Cart / Payment</strong></td>
     <td><strong>Add to Cart</strong></td>
-    <td><strong>Secure Payment</strong></td>
-    <td><strong>User-Friendly UI</strong></td>
-    <td><strong>Additional Feature</strong></td>
   </tr>
 </table>
 
