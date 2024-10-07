@@ -44,6 +44,7 @@ For any inquiries or feedback, please reach out to: omveerpanwar9@gmail.com
 This project is designed to provide a delightful snack-shopping experience with ease and convenience.
 
 ## 🎥 Preview
+Click here - https://www.youtube.com/watch?v=LPnNwHdwkQc
 
 
 ## Contributors
