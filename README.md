@@ -9,11 +9,11 @@
 - ✨ **User-Friendly Interface**: Simple and attractive UI for smooth navigation.
 
 ## 📸 Screenshots
-| ![Screenshot 1](https://github.com/user-attachments/assets/c9791ce3-e4b2-4f67-8e7e-100a57f8ed0b) | ![Screenshot 2](https://github.com/user-attachments/assets/a21c6ea3-2d80-4760-a9a9-61e70f3553f3) |  
+| ![Screenshot 1](https://github.com/user-attachments/assets/c9791ce3-e4b2-4f67-8e7e-100a57f8ed0b =200x200) | ![Screenshot 2](https://github.com/user-attachments/assets/a21c6ea3-2d80-4760-a9a9-61e70f3553f3 =200x200) |  
 |---|---|  
 | **Browse Snacks** | **Add to Cart** |  
 
-| ![Screenshot 3](https://github.com/user-attachments/assets/0f155f94-78a1-49c4-a3db-115fa8683d45) | ![Screenshot 4](https://github.com/user-attachments/assets/75372b52-b375-46c9-b2a0-172413c8ef71) |  
+| ![Screenshot 3](https://github.com/user-attachments/assets/0f155f94-78a1-49c4-a3db-115fa8683d45 =200x200) | ![Screenshot 4](https://github.com/user-attachments/assets/75372b52-b375-46c9-b2a0-172413c8ef71 =200x200) |  
 |---|---|  
 | **Secure Payment** | **User-Friendly UI** |  
 
